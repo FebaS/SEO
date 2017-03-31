@@ -1,4 +1,4 @@
-# SEO
+
 <html>
 <body>
 <backgroundimage>https://wallpaperbrowse.com/media/images/background76_RxElvJb.jpg</backgroundimage>
